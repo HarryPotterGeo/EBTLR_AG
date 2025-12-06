@@ -1,7 +1,7 @@
 # EBTLR_AG
 "Enhanced Bipartite Tensor Low-rank Representation and Adaptive Graph Learning for Multi-view Clustering" 
 
-If you want to run this algorithm, you can check the `EBTLR_AG.m` file.
+If you want to run this algorithm, you can check the `Run.m` file.
 
 Recommended parameters:
   1. Prokaryotic：  rate = 0.135, alpha = 1.7;
